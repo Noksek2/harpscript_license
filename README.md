@@ -29,3 +29,6 @@ This project's under the harpscript License v1.0
 
 - Conflict with GPL / LGPL : This license may conflict with GPL and LGPL. We are not responsible for any violations or legal issues arising from the combination of GPL and LGPL licenses, as this is beyond the scope of Harpscript's license authority.
 ```
+
+## Introduce
+<img src="logo.jpg" width=400>
