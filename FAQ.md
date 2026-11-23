@@ -67,8 +67,3 @@ By the standards of the license administrator (Noksek2), Codeberg adheres to the
 Simultaneously, given its clear stance on code protection amidst modern digital regulatory environments like the EU AI Act, we consider it the "only stronghold" where we can currently permit public uploads.
 
 There is absolutely no intention to promote a specific platform. This decision is based entirely on the license administrator's code protection principles, and we hope there are no misunderstandings regarding this.
-
-# Is execution on GPL-based OS environments like Linux an issue?
-Simple execution and independent operation (Safe): Running or operating as an independent program using the Linux kernel's system calls is not subject to GPL's viral nature. You can freely use it while maintaining the conditions of the Harpscript license (keeping it private / source crediting).
-
-Direct source code combination (Prohibited): Actions such as directly merging GPL code into the Harpscript project or strongly linking them into a single binary for public distribution are not permitted, as the obligations of the two licenses inherently contradict each other.
